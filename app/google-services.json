@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "827994121847",
+    "firebase_url": "https://supremeprojectu.firebaseio.com",
+    "project_id": "supremeprojectu",
+    "storage_bucket": "supremeprojectu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827994121847:android:ea36f1f22a10bbbd",
+        "android_client_info": {
+          "package_name": "edu.duke.wibbfya.projectU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827994121847-cibvgcr3rmsu4hql454ll7bn70ngsgam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmEsm7MhxfMgItCoxBbh47W8LiMMB5Y34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
